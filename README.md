@@ -1,10 +1,14 @@
 # ICE4: Stoplight
 
+
 VHDL for ECE 281 [ICE4](https://usafa-ece.github.io/ece281-book/ICE/ICE4.html)
 
 Targeted toward Digilent Basys3. Make sure to install the [board files](https://github.com/Xilinx/XilinxBoardStore/tree/2018.2/boards/Digilent/basys3).
 
 Tested on Windows 11.
+
+## Simulation Screenshot
+![Simulation Screenshot](https://github.com/parkerdouglas00/ece281-ice4/blob/main/ICE4_Simulation.png?raw=true)
 
 ## Build the project
 
