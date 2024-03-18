@@ -97,9 +97,9 @@ begin
 	clk_proc : process
 	begin
 		w_clk <= '0';
-        wait for k_clk_period/2;
+            wait for k_clk_period/2;
 		w_clk <= '1';
-		wait for k_clk_period/2;
+		  wait for k_clk_period/2;
 	end process;
 	
 	-- Simulation process
